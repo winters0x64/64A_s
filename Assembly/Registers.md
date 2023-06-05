@@ -45,7 +45,7 @@ mov rbx,rax
 
 as long as the size is aligned properly, the old data in the register is not destroyed.
 
-(Doubt)
+
 Consider:
 mov eax,-1
 

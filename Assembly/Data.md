@@ -21,3 +21,6 @@ When we give data over the capacity of a storage unit overflow occurs, and when 
 Negative numbers are expressed in 2's compliment , proposed by jhon von neumann.
 
 In a data representation the right most bit is called the most significant bit as a change in its data can have a huge impact on the number itself, and the leftmost bit is least significant bit which doesn't affect the value of the number  that much.
+
+2's complement -> Change all 0's to 1 and 1 to 0's, then add 1 to the LSB
+
